@@ -11,4 +11,4 @@ In Style Transfer, we follow Caffe Image preprocessing. However in deepDream, we
 ## style image
 ![img](https://github.com/lovekittynine/Style-Transfer-And-DeepDream/blob/master/style.jpg)
 ## target image
-![img]()
+![img](https://github.com/lovekittynine/Style-Transfer-And-DeepDream/blob/master/generate2.jpg)
